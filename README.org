@@ -13,3 +13,5 @@
    developed to solve specific problems and explaining how a migration can be
    tackled in cases where there are currently no specific tools we want to give
    you all the information needed to take informed decisions.
+** Offline development docker
+   Launch with =docker run -it -v ${PWD}:/repo -p 9000:9000 gitpitch/free=
