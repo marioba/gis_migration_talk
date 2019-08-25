@@ -2,7 +2,7 @@
 @title[Title]
 
 ## <span class="green">GIS</span> Migration Paths
-####Tools and strategies to move to open source GIS
+#### Tools and strategies to move to open source GIS
 <br>
 <br>
 <br>
