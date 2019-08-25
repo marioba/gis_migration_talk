@@ -1,0 +1,15 @@
+* GIS Migration Paths - Tools and strategies to move to open source GIS
+  Presentation @ FOSS4G Bucharest 2019
+  Fortuna West, August 29th, 14:00
+** Online presentation
+   https://gitpitch.com/marioba/gis_migration_talk/master
+** Abstract
+   This talk highlights the issues that need to be addressed to successfully
+   migrate from a GIS solution based on commercial products to a solution based
+   on open-source software, in particular QGIS. What can be done? Where to
+   start? What are the potential elements to convert? Which strategy to adopt?
+   The talk will try to answer these questions by showing examples and lesson
+   learned from successful Migrations. By presenting ad-hoc open source tools
+   developed to solve specific problems and explaining how a migration can be
+   tackled in cases where there are currently no specific tools we want to give
+   you all the information needed to take informed decisions.
