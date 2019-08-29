@@ -270,7 +270,7 @@ There is a crowdfounding to develop new features, such as converting MXD files
 
 +++
 @title[Demo]
-![demo](assets/images/demo.jpg)
+![demo](assets/images/slyr_demo.mp4)
 
 ---
 @title[Conclusion]
