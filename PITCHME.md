@@ -100,6 +100,9 @@ Why should we change the solution we have and convert everything to open source?
 - Speed of improvements
 - Contribute to the community
 
+Note:
+Moving to open-source we get rid of vendor lock-ins. We can know exactly what our software does and we have the possibility to modify it quickly in case of need. We have the guarantee that the code will always be available in the future and we will be able to access our data regardless of the will or failure of one private company.
+
 ---
 @title[Obstacles]
 ## What <span class="green">obstacles</span> do we face?
@@ -113,14 +116,20 @@ There are many obstacles that can arise when migrating to an open-source GIS sol
 - Proprietary formats
 - Vendor support
 - Not knowing what the software does
-- Find new partners
 - Staff training
-- Company bankruptcies
 - Staff's resistance to change
+- Find new partners
 
 Note:
 Clearly, vendors of proprietary solutions do not want you to change solutions and usually do not simplify the transition to other solutions and sometimes do everything possible to try to prevent it.
 One of the main obstacles to moving from proprietary to open source solutions, in any area, not just GIS, is the use of proprietary, undocumented formats. 
+
+Proprietary formats may force us to reverse engineer to extract our data if there are no tools in place to do so. And the proprietary software provider will probably not provide support in this direction.
+
+Sometimes it is difficult, for example, to recreate a workflow if we don't know exactly how it is run by proprietary software and we need to deeply analize and test it.
+
+We need to find new partners to develop the tools they need, to get support with new open-source programs and to acquire the necessary knowledge. But this is an easily overcome obstacle as there are several companies that can do it. For example us.
+
 
 ---
 @title[Strategy]
@@ -261,7 +270,7 @@ There is a crowdfounding to develop new features, such as converting MXD files
 
 +++
 @title[Demo]
-![demo](assets/images/slyr_demo.mp4)
+![demo](assets/images/demo.jpg)
 
 ---
 @title[Conclusion]
